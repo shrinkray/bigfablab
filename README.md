@@ -1,6 +1,6 @@
-# VIIO Astro Theme
+# bigfablab
 
-VIIO is an experimental Astro landing page theme featuring interactive Three.js elements.
+An experimental Astro landing page featuring interactive Three.js elements.
 
 ## Getting Started
 
@@ -11,8 +11,7 @@ Edit the following files to customize links, content, and layout details:
 
 ## Preview
 
-Live preview:  
-https://viio.pages.dev/
+Live preview: add your deployment URL after publishing.
 
 ## Installation
 
